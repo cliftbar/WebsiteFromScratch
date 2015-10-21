@@ -3,12 +3,17 @@
 <html>
 
 <head>
-	<h1>Cameron Barclift</h1>
-	<a href="resume/resume.html">Resume</a>
 </head>
 
 <body>
-	<h1>Test 4</h1>
+  <div class="nav">
+    <ul>
+      <li> <a ref="\res\resume.html">Professional</a></li>
+    </ul>
+    <ul>
+      <li>Contact</li>
+    </ul>
+  </div>
 </body>
 
 </html>
