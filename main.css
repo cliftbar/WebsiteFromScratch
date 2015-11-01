@@ -1,0 +1,89 @@
+.nav a {
+	font-size: 11px;
+	font-weight: bold;
+  	padding: 14px 10px 5px;
+  	text-transform: uppercase;
+	color: #5a5a5a;
+}
+
+.nav li
+{
+	display: inline;
+}
+
+.jumbotron {
+	/**/
+	background-color: white;
+}
+
+.first {
+	text-align: center;
+}
+
+.second {
+	/*background-image: url("res/images/SailJumbo.jpg");*/
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	height: 250px;
+	margin-left: 7px;
+	margin-right: 7px;
+	position: relative;
+
+}
+
+.second img {
+	height: 240px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5px;
+	background-color: lightgray;
+}
+
+.currentStuff {
+	background-color: lightgray;
+}
+
+.currentStuff h2 {
+	text-align: center;
+}
+
+.curr-job {
+	background-color: white;
+}
+
+.curr-job h3 {
+	text-align: left;
+	padding-top: 5px;
+	padding-left: 5px
+}
+
+.job-part {
+	background-color: #003A70;
+    font-size: 16px;
+	color: white;
+}
+
+.job-part a {
+	text-decoration: underline;
+}
+
+.job-part h4 {
+	text-align: center;
+}
+
+.job-part p{
+	padding: 7px;
+}
+
+.job-part .list-inline {
+	align-items: left;
+	padding-left: 7px;
+	padding-bottom: 7px;
+}
+
+.job-part a {
+	color: white;
+}
