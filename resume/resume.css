@@ -6,15 +6,13 @@
 }
 
 .row-container {
-    display: inline;
 }
 
 .first-row a {
     color: black;
 }
 
-.first-row .summary {
-
+.first-row .summary .container {
     height: fit-content;
     width: auto;
     position: absolute;
