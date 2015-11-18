@@ -1,0 +1,24 @@
+/* nav bar from navbar.css*/
+.first-row img{
+    height: 350px;
+	padding: 5px;
+    background-color: black;
+}
+
+.row-container {
+    display: inline;
+}
+
+.first-row a {
+    color: black;
+}
+
+.first-row .summary {
+
+    height: fit-content;
+    width: auto;
+    position: absolute;
+	top: -50%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+}
